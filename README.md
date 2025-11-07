@@ -27,3 +27,5 @@ El trabajo se organiza mediante el flujo de SCRUM:
 * **`main`**: Versión estable y etiquetada.
 * **`develop`**: Rama de integración del trabajo del *Sprint*.
 * **`feature/...`**: Ramas de trabajo para cada Historia de Usuario.
+  Este es el figma de nuestro proyecto
+  https://www.figma.com/design/oq00DjATaPBYjYP2XNK8NF/app-para-celular?node-id=76-251&t=zxhxWRtUMT9OeMUZ-1
